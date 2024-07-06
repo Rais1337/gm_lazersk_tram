@@ -1,7 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "/skybox/sky_day_02bk.tga"
-
-	$ignorez 1
-	$nofog 1
-}

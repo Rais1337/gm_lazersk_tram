@@ -1,7 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "F:/My Project/gm_lazersk_tram/materials/skybox/sky_day_02lf"
-
-	$ignorez 1
-	$nofog 1
-}
