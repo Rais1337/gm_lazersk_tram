@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+    "$surfaceprop" "metal"
+    "$basetexture" "models/rusroadsigns/3/ru_znak__3-16__50"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.15 0.15 0.15]"
+}

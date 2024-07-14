@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+    "$surfaceprop" "metal"
+    "$basetexture" "models/rusroadsigns/3/ru_znak__3-27__glow"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.15 0.15 0.15]"
+    "$selfillum" "1"
+    "$selfillumtint" "[0.65 0.65 0.65]"
+}
