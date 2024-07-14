@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8867"
-	"mapversion" "55"
+	"mapversion" "59"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,7 +14,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "1"
 }
 palette_plus
 {
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "55"
+	"mapversion" "59"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1045,13 +1045,13 @@ world
 		side
 		{
 			"id" "73"
-			"plane" "(-1024 -182 4) (-1020 -182 4) (-1020 -260 4)"
+			"plane" "(-988 -182 4) (-984 -182 4) (-984 -260 4)"
 			vertices_plus
 			{
-				"v" "-1024 -182 4"
-				"v" "-1020 -182 4"
-				"v" "-1020 -260 4"
-				"v" "-1024 -260 4"
+				"v" "-988 -182 4"
+				"v" "-984 -182 4"
+				"v" "-984 -260 4"
+				"v" "-988 -260 4"
 			}
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 32] 0.25"
@@ -1063,13 +1063,13 @@ world
 		side
 		{
 			"id" "74"
-			"plane" "(-1024 -260 0) (-1020 -260 0) (-1020 -182 0)"
+			"plane" "(-988 -260 0) (-984 -260 0) (-984 -182 0)"
 			vertices_plus
 			{
-				"v" "-1024 -260 0"
-				"v" "-1020 -260 0"
-				"v" "-1020 -182 0"
-				"v" "-1024 -182 0"
+				"v" "-988 -260 0"
+				"v" "-984 -260 0"
+				"v" "-984 -182 0"
+				"v" "-988 -182 0"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -1081,13 +1081,13 @@ world
 		side
 		{
 			"id" "75"
-			"plane" "(-1024 -182 4) (-1024 -260 4) (-1024 -260 0)"
+			"plane" "(-988 -182 4) (-988 -260 4) (-988 -260 0)"
 			vertices_plus
 			{
-				"v" "-1024 -182 4"
-				"v" "-1024 -260 4"
-				"v" "-1024 -260 0"
-				"v" "-1024 -182 0"
+				"v" "-988 -182 4"
+				"v" "-988 -260 4"
+				"v" "-988 -260 0"
+				"v" "-988 -182 0"
 			}
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 -16] 0.25"
@@ -1099,13 +1099,13 @@ world
 		side
 		{
 			"id" "76"
-			"plane" "(-1020 -182 0) (-1020 -260 0) (-1020 -260 4)"
+			"plane" "(-984 -182 0) (-984 -260 0) (-984 -260 4)"
 			vertices_plus
 			{
-				"v" "-1020 -182 0"
-				"v" "-1020 -260 0"
-				"v" "-1020 -260 4"
-				"v" "-1020 -182 4"
+				"v" "-984 -182 0"
+				"v" "-984 -260 0"
+				"v" "-984 -260 4"
+				"v" "-984 -182 4"
 			}
 			"material" "DEV/DEV_MEASUREGENERIC01"
 			"uaxis" "[0 1 0 -16] 0.25"
@@ -1117,13 +1117,13 @@ world
 		side
 		{
 			"id" "77"
-			"plane" "(-1020 -182 4) (-1024 -182 4) (-1024 -182 0)"
+			"plane" "(-984 -182 4) (-988 -182 4) (-988 -182 0)"
 			vertices_plus
 			{
-				"v" "-1020 -182 4"
-				"v" "-1024 -182 4"
-				"v" "-1024 -182 0"
-				"v" "-1020 -182 0"
+				"v" "-984 -182 4"
+				"v" "-988 -182 4"
+				"v" "-988 -182 0"
+				"v" "-984 -182 0"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -1135,13 +1135,13 @@ world
 		side
 		{
 			"id" "78"
-			"plane" "(-1020 -260 0) (-1024 -260 0) (-1024 -260 4)"
+			"plane" "(-984 -260 0) (-988 -260 0) (-988 -260 4)"
 			vertices_plus
 			{
-				"v" "-1020 -260 0"
-				"v" "-1024 -260 0"
-				"v" "-1024 -260 4"
-				"v" "-1020 -260 4"
+				"v" "-984 -260 0"
+				"v" "-988 -260 0"
+				"v" "-988 -260 4"
+				"v" "-984 -260 4"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
@@ -1625,6 +1625,124 @@ world
 		editor
 		{
 			"color" "0 153 106"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "2613"
+		side
+		{
+			"id" "138"
+			"plane" "(-988 -387 4) (-984 -387 4) (-984 -465 4)"
+			vertices_plus
+			{
+				"v" "-988 -387 4"
+				"v" "-984 -387 4"
+				"v" "-984 -465 4"
+				"v" "-988 -465 4"
+			}
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "137"
+			"plane" "(-988 -465 0) (-984 -465 0) (-984 -387 0)"
+			vertices_plus
+			{
+				"v" "-988 -465 0"
+				"v" "-984 -465 0"
+				"v" "-984 -387 0"
+				"v" "-988 -387 0"
+			}
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "136"
+			"plane" "(-988 -387 4) (-988 -465 4) (-988 -465 0)"
+			vertices_plus
+			{
+				"v" "-988 -387 4"
+				"v" "-988 -465 4"
+				"v" "-988 -465 0"
+				"v" "-988 -387 0"
+			}
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[0 1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "135"
+			"plane" "(-984 -387 0) (-984 -465 0) (-984 -465 4)"
+			vertices_plus
+			{
+				"v" "-984 -387 0"
+				"v" "-984 -465 0"
+				"v" "-984 -465 4"
+				"v" "-984 -387 4"
+			}
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[0 1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "134"
+			"plane" "(-984 -387 4) (-988 -387 4) (-988 -387 0)"
+			vertices_plus
+			{
+				"v" "-984 -387 4"
+				"v" "-988 -387 4"
+				"v" "-988 -387 0"
+				"v" "-984 -387 0"
+			}
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "133"
+			"plane" "(-984 -465 0) (-988 -465 0) (-988 -465 4)"
+			vertices_plus
+			{
+				"v" "-984 -465 0"
+				"v" "-988 -465 0"
+				"v" "-988 -465 4"
+				"v" "-984 -465 4"
+			}
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 209 182"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -2866,7 +2984,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "128 -384 0"
+	"origin" "96 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -2897,7 +3015,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "192 -468 0"
+	"origin" "160 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -2928,7 +3046,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "128 -468 0"
+	"origin" "96 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -2959,7 +3077,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "192 -384 0"
+	"origin" "160 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -2990,7 +3108,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "256 -468 0"
+	"origin" "224 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3021,7 +3139,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "320 -468 0"
+	"origin" "288 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3052,7 +3170,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "256 -384 0"
+	"origin" "224 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3083,7 +3201,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "320 -384 0"
+	"origin" "288 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3114,7 +3232,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "384 -468 0"
+	"origin" "352 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3145,7 +3263,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "448 -468 0"
+	"origin" "416 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3176,7 +3294,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "384 -384 0"
+	"origin" "352 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3207,7 +3325,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "448 -384 0"
+	"origin" "416 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3238,7 +3356,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "512 -468 0"
+	"origin" "480 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3269,7 +3387,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "576 -468 0"
+	"origin" "544 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3300,7 +3418,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "512 -384 0"
+	"origin" "480 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3331,7 +3449,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "576 -384 0"
+	"origin" "544 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3362,7 +3480,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "640 -468 0"
+	"origin" "608 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3393,7 +3511,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "704 -468 0"
+	"origin" "672 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3424,7 +3542,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "640 -384 0"
+	"origin" "608 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3455,7 +3573,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "704 -384 0"
+	"origin" "672 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3486,7 +3604,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "768 -468 0"
+	"origin" "736 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3517,7 +3635,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "832 -468 0"
+	"origin" "800 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3548,7 +3666,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "768 -384 0"
+	"origin" "736 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3579,7 +3697,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "832 -384 0"
+	"origin" "800 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3610,7 +3728,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "896 -468 0"
+	"origin" "864 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3641,7 +3759,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "960 -468 0"
+	"origin" "928 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3672,7 +3790,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "896 -384 0"
+	"origin" "864 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3703,7 +3821,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "960 -384 0"
+	"origin" "928 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3734,7 +3852,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "0 -468 0"
+	"origin" "-32 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3765,7 +3883,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "64 -468 0"
+	"origin" "32 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3796,7 +3914,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "0 -384 0"
+	"origin" "-32 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3827,7 +3945,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "64 -384 0"
+	"origin" "32 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3858,7 +3976,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-128 -468 0"
+	"origin" "-160 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3889,7 +4007,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-64 -468 0"
+	"origin" "-96 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3920,7 +4038,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-128 -384 0"
+	"origin" "-160 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3951,7 +4069,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-64 -384 0"
+	"origin" "-96 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -3982,7 +4100,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-256 -468 0"
+	"origin" "-288 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4013,7 +4131,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-192 -468 0"
+	"origin" "-224 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4044,7 +4162,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-256 -384 0"
+	"origin" "-288 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4075,7 +4193,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-192 -384 0"
+	"origin" "-224 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4106,7 +4224,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-384 -468 0"
+	"origin" "-416 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4137,7 +4255,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-320 -468 0"
+	"origin" "-352 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4168,7 +4286,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-384 -384 0"
+	"origin" "-416 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4199,7 +4317,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-320 -384 0"
+	"origin" "-352 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4230,7 +4348,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-512 -468 0"
+	"origin" "-544 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4261,7 +4379,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-448 -468 0"
+	"origin" "-480 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4292,7 +4410,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-512 -384 0"
+	"origin" "-544 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4323,7 +4441,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-448 -384 0"
+	"origin" "-480 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4354,7 +4472,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-640 -468 0"
+	"origin" "-672 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4385,7 +4503,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-576 -468 0"
+	"origin" "-608 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4416,7 +4534,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-640 -384 0"
+	"origin" "-672 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4447,7 +4565,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-576 -384 0"
+	"origin" "-608 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4478,7 +4596,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-768 -468 0"
+	"origin" "-800 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4509,7 +4627,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-704 -468 0"
+	"origin" "-736 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4540,7 +4658,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-768 -384 0"
+	"origin" "-800 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4571,7 +4689,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-704 -384 0"
+	"origin" "-736 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4602,7 +4720,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-896 -468 0"
+	"origin" "-928 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4633,7 +4751,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-832 -468 0"
+	"origin" "-864 -468 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4664,7 +4782,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-896 -384 0"
+	"origin" "-928 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4695,7 +4813,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-832 -384 0"
+	"origin" "-864 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4726,7 +4844,7 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-960 -384 0"
+	"origin" "-992 -384 0"
 	editor
 	{
 		"color" "255 255 0"
@@ -4757,7 +4875,69 @@ entity
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
-	"origin" "-960 -468 0"
+	"origin" "-992 -468 0"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "2605"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_rails/track_straight_64a.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "992 -468 0"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "2609"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_rails/track_straight_64a.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "992 -384 0"
 	editor
 	{
 		"color" "255 255 0"

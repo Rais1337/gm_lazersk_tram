@@ -1,4 +1,4 @@
-$modelname	"track_straight_64a\track_straight_64a.mdl"
+$modelname	"props_rails\track_straight_64a.mdl"
 $body body	"track_straight_64a_ref.smd"
 
 $surfaceprop	"metal"
