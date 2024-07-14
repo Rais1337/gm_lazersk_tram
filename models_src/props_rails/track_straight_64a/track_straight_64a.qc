@@ -7,5 +7,9 @@ $cdmaterials	"models\props_rails\"
 $sequence idle	"track_straight_64a_anims\idle.smd"
 
 $collisionmodel	"track_straight_64a_phys.smd" 
+{
+	$concave
+	$maxconvexpieces 2
+}
 
 $staticprop
