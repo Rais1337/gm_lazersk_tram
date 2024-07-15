@@ -9,7 +9,7 @@ $sequence idle	"track_turn_768a_anims\idle.smd"
 $collisionmodel	"track_turn_768a_phys.smd" 
 {
 	$concave
-	$maxconvexpieces 64
+	$maxconvexpieces 34
 }
 
 $staticprop
