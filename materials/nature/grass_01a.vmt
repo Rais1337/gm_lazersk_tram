@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "nature/grass_01a_color"
+	$bumpmap "nature/grass_01a_normal"
+	$surfaceprop Grass
+}
