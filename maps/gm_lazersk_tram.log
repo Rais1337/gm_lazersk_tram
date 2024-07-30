@@ -3598,3 +3598,2566 @@ Level flags = 0
 Total triangle count: 24470
 Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
 1 minute, 17 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-14272.00 -14848.00 419.25) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14592.0 15360.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15104.0 15360.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14912.0 15360.0 2568.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14912.0 15360.0 192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15232.0 15360.0 2312.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14528.0 15360.0 2312.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1146279 bytes)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2880.00, -3584.00, 60.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-13502.70, -12288.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-13502.70, -12288.00, 154.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13439.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13695.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13567.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13823.90, 60.00)
+Static prop models/props_rooftop/sign_letter02_rus2002.mdl outside the map (14605.40, 10289.10, 513.80)
+Static prop models/props_rooftop/sign_letter02_e002.mdl outside the map (14605.40, 10385.10, 513.80)
+Static prop models/props_rooftop/sign_letter02_k002.mdl outside the map (14605.40, 10481.10, 513.80)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-6529.26, -1024.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-10752.00, -5374.74, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-10240.00, -5377.26, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-10240.00, -5377.26, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (10240.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (9216.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (8192.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (7168.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (6144.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (5120.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (4096.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (3072.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (2048.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (1024.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (0.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-1024.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-2560.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-3584.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-4608.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-5632.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-6656.00, 11712.00, 1.00)
+Static prop models/props_rooftop/sign_letter02_rus2002.mdl outside the map (14459.00, 13120.00, 538.00)
+Static prop models/props_rooftop/sign_letter02_e002.mdl outside the map (14459.00, 13216.00, 538.00)
+Static prop models/props_rooftop/sign_letter02_k002.mdl outside the map (14459.00, 13312.00, 538.00)
+Static prop models/props_rooftop/sign_letter02_rus1002.mdl outside the map (14459.00, 13408.00, 538.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-12288.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-13312.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-14336.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-10816.00, 12800.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-10816.00, 13824.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-10816.00, 14848.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-11264.00, 11712.00, 1.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-8672.00, 12594.00, 304.00)
+Static prop models/props_foliage/tree_poplar_01.mdl outside the map (-7680.00, 13248.00, 1.00)
+Static prop models/props_foliage/tree_springers_01a.mdl outside the map (-9728.00, 14016.00, 1.00)
+Static prop models/props_foliage/tree_deciduous_01a-lod.mdl outside the map (-8640.00, 13312.00, 1.00)
+Static prop models/props_foliage/tree_poplar_01.mdl outside the map (-9728.00, 13184.00, 1.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (4991.97, 14048.00, 60.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11006.00, 12312.00, 104.00)
+Static prop models/rusroadsigns/ru_znak__2-1.mdl outside the map (-11008.00, 11744.00, 112.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-10784.00, 13053.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__6-16.mdl outside the map (-11008.00, 11744.00, 81.00)
+Static prop models/rusroadsigns/znak_pole__50x2500.mdl outside the map (-11007.00, 12312.00, 1.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-10208.00, 11517.00, 1.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-11008.00, 11744.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11008.00, 11744.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11005.00, 11744.00, 154.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13056.00, 60.00)
+Static prop models/rusroadsigns/ru_znak__6-16.mdl outside the map (-10208.00, 11517.00, 81.00)
+Static prop models/rusroadsigns/ru_znak__2-4.mdl outside the map (-10208.00, 11517.00, 112.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-10208.00, 11520.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-10208.00, 11517.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11008.00, 12312.00, 104.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-9986.00, 12736.00, 104.00)
+Static prop models/rusroadsigns/znak_pole__50x2500.mdl outside the map (-9985.00, 12736.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-9984.00, 12736.00, 104.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11006.00, 12736.00, 104.00)
+Static prop models/rusroadsigns/znak_pole__50x2500.mdl outside the map (-11007.00, 12736.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-11008.00, 12736.00, 104.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-10816.00, 11264.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-10784.00, 13056.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__6-16.mdl outside the map (-10784.00, 13056.00, 81.00)
+Static prop models/rusroadsigns/ru_znak__2-4.mdl outside the map (-10784.00, 13056.00, 112.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-10784.00, 13056.00, 1.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-9984.00, 12312.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-9984.00, 12312.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__2-1.mdl outside the map (-9984.00, 12312.00, 112.00)
+Static prop models/rusroadsigns/ru_znak__5-19__b.mdl outside the map (-9987.00, 12312.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__6-16.mdl outside the map (-9984.00, 12312.00, 81.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9920.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9792.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9664.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9280.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9408.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9536.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8512.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8640.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8768.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8896.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9024.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9152.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7744.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7872.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8000.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8128.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8256.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-8384.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7616.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7488.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7232.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7360.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13184.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13312.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13440.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13568.00, 60.00)
+Static prop models/props_wasteland/interior_fence004b.mdl outside the map (-9984.00, 13696.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13824.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 13952.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14080.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14208.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14336.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14592.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14464.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14720.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14848.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 14976.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 15104.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-9984.00, 15232.00, 60.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (-9984.00, 15328.00, 60.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-8704.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-9728.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (-7680.00, 11712.00, 1.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7104.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6976.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6848.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6720.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 13056.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 13184.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 13887.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14015.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14271.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14143.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14399.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14655.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14527.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14783.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 15039.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 14911.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 15167.90, 60.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (-6016.03, 13280.00, 60.00)
+Static prop models/props_foliage/tree_springers_01a.mdl outside the map (-6848.00, 13312.00, 1.00)
+Static prop models/props_foliage/tree_deciduous_01a.mdl outside the map (-6400.00, 14016.00, 1.00)
+Static prop models/props_trainstation/train003.mdl outside the map (13888.70, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (13332.70, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (12220.70, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (12776.70, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (9997.57, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (10553.60, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (11109.60, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (11665.60, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (7773.57, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (8329.57, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (8885.57, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (9441.57, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (6662.00, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (7218.00, 15264.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (6512.00, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (7068.00, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (7623.57, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (8179.57, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (8735.57, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (9291.57, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (9847.57, 15072.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (10403.60, 15072.00, 106.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (11264.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (12288.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (13312.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (14336.00, 11712.00, 1.00)
+Static prop models/props_c17/lamppost03a_off.mdl outside the map (15344.00, 11712.00, 1.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-8672.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-8672.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-8672.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-10208.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-10208.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-10208.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-10208.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-11744.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-11744.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-11744.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-11744.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-7136.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-7136.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-7136.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-7136.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-5600.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-5600.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-5600.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-5600.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-4064.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-4064.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-4064.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-4064.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-2528.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-2528.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-2528.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-2528.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-992.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-992.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (-992.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (-992.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (544.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (544.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (544.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (544.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (2080.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (2080.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (2080.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (2080.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (3616.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (3616.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (3616.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (3616.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (5152.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (5152.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (5152.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (5152.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (6688.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (6688.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (6688.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (6688.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (8224.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (8224.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (8224.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (8224.00, 12594.00, 304.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (9760.00, 12416.00, 304.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (9760.00, 12416.00, 291.00)
+Static prop models/props_c17/utilityconnecter005.mdl outside the map (9760.00, 12594.00, 291.00)
+Static prop models/props_c17/utilityconnecter002.mdl outside the map (9760.00, 12594.00, 304.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-894.74, 12672.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-1024.00, 11518.70, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-1024.00, 11518.70, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (1278.74, 5120.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (1278.74, 5120.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (1281.26, 5632.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (1281.26, 5632.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (12289.30, 14336.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (12289.30, 14336.00, 1.00)
+Static prop models/props_rooftop/sign_letter02_rus1002.mdl outside the map (14605.40, 10577.10, 513.80)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-10752.00, -5374.74, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-6529.26, -1024.00, 1.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3392.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3520.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3648.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3776.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3904.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4032.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4160.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4288.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4416.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4544.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4672.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4800.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4928.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5056.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5184.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5312.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5440.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5568.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5696.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5824.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5952.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6080.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6336.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6464.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6592.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6208.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-64.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-192.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-320.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-448.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-576.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-704.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-832.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-960.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1088.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1472.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1600.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1728.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1856.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-1984.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2112.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2240.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2368.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2496.09, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2624.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2752.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3008.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3136.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3264.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2880.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3264.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3136.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3008.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2880.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2751.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2623.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2495.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2367.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2239.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (2111.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1983.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1855.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1727.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1599.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1471.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1343.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1215.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1087.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (959.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (831.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (704.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (576.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (320.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (192.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (64.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (448.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4927.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4799.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4671.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4543.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4415.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4287.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4159.91, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4032.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3904.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3648.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3520.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3776.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (3392.00, 12992.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13056.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13184.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13312.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13439.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13567.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13695.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13823.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 13951.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13951.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13312.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13184.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 13056.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 14975.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 15103.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (4991.97, 15231.90, 60.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (4991.97, 15328.00, 60.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (9598.74, 5120.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (9598.74, 5120.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (12800.00, 2430.74, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (12800.00, 2430.74, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (12800.00, -9857.26, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (12800.00, -9857.26, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (12288.00, -9854.74, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (12288.00, -9854.74, 1.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (2046.74, -13312.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (2046.74, -13312.00, 154.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (4481.26, -12800.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (4481.26, -12800.00, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-2048.00, -7937.26, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-2048.00, -7937.26, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-2560.00, -6910.74, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-2560.00, -6910.74, 1.00)
+Static prop models/rusroadsigns/ru_znak__5-17.mdl outside the map (-6526.74, -512.00, 154.00)
+Static prop models/rusroadsigns/znak_pole__75x4000.mdl outside the map (-6526.74, -512.00, 1.00)
+Static prop models/props_trainstation/trackends01.mdl outside the map (6140.00, 15256.00, 12.00)
+Static prop models/props_trainstation/trackends01.mdl outside the map (6140.00, 15064.00, 12.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (-384.03, 15328.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 15231.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 15103.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14975.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14847.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14719.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14591.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14463.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14335.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14207.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-384.03, 14079.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13056.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13184.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13312.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13439.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13567.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13695.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13823.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 13951.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14079.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14207.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14335.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14463.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14591.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14719.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14847.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 14975.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 15103.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2304.03, 15231.90, 60.00)
+Static prop models/props_wasteland/interior_fence003d.mdl outside the map (-2304.03, 15328.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6016.03, 15296.00, 60.00)
+Static prop models/props_foliage/tree_springers_01a.mdl outside the map (-2816.00, 13440.00, 1.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11264.00, 13119.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11264.00, 13247.90, 60.00)
+Static prop models/props_wasteland/interior_fence003a.mdl outside the map (-11264.00, 12720.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11264.00, 12991.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11264.00, 12863.90, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11328.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11456.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11712.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11584.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12224.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12096.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11968.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-11840.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12736.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12608.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12480.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12352.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13248.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13120.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12992.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-12864.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13760.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13632.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13504.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13376.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14272.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14144.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14016.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-13888.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14784.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14656.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14528.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14400.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-15296.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-15168.10, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-15040.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-14912.00, 12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003a.mdl outside the map (-11264.00, 12304.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6720.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6464.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6336.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6208.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6080.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5952.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6592.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6848.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7360.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7232.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7104.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6976.09, 9472.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5952.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6080.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6208.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6336.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6464.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6592.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6720.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6848.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6976.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7104.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7232.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7360.09, 7424.03, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 7488.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 7616.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 7744.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 7872.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8000.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8128.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8256.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8384.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8512.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8640.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8768.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 8896.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 9408.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 9280.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 9152.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-7423.97, 9024.09, 60.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -7104.00, 106.00)
+Static prop models/props_trainstation/train001.mdl outside the map (14901.30, -11238.00, 120.00)
+Static prop models/props_trainstation/train001.mdl outside the map (14901.30, -11914.00, 120.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -7680.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -8256.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -8832.00, 106.00)
+Static prop models/props_trainstation/train002.mdl outside the map (15276.70, -9408.00, 106.00)
+Static prop models/props_trainstation/train002.mdl outside the map (15276.70, -9920.00, 106.00)
+Static prop models/props_trainstation/train002.mdl outside the map (15276.70, -10432.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -10976.00, 106.00)
+Static prop models/props_trainstation/train003.mdl outside the map (15276.70, -11568.00, 106.00)
+Static prop models/props_trainstation/train005.mdl outside the map (15276.70, -12608.00, 40.00)
+Static prop models/props_trainstation/train005.mdl outside the map (15276.70, -12096.00, 40.00)
+Static prop models/props_trainstation/train005.mdl outside the map (15276.70, -13120.00, 40.00)
+Static prop models/props_trainstation/train005.mdl outside the map (15276.70, -13632.00, 40.00)
+Static prop models/props_trainstation/train002.mdl outside the map (15276.70, -14144.00, 106.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3008.00, -3584.00, 60.00)
+Static prop models/maxofs2d/construct_sign.mdl outside the map (-13056.00, -14848.00, 448.00)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Static prop models/props_rooftop/sign_letter02_rus2002.mdl outside the map (-14844.00, -12609.00, 412.00)
+Static prop models/props_rooftop/sign_letter02_e002.mdl outside the map (-14844.00, -12477.00, 412.00)
+Static prop models/props_rooftop/sign_letter02_rus1002.mdl outside the map (-14844.00, -12349.00, 412.00)
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Static prop models/props/de_tides/tides_sign_a.mdl outside the map (-14844.00, -13376.00, 448.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (960.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1088.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1216.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1344.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1472.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1600.00, -8192.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1600.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (960.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1216.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1344.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1472.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (1088.00, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (63.91, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-576.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-320.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-192.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-64.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-448.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (63.91, -8191.97, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-576.09, -8191.97, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8256.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8384.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8512.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8640.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8768.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -8896.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9024.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9920.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9152.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9280.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9408.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9536.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9664.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -9792.09, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10816.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10048.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10176.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10304.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10432.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10560.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10688.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11712.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -10944.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11072.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11200.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11328.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11456.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11584.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -12224.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11840.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -11968.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -12096.10, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3264.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3136.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3008.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2880.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2752.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2624.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4032.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3904.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3776.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3648.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3520.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-3392.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4800.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4672.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4544.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4416.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4288.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4160.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5568.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5440.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5312.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5184.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5056.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-4928.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6208.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-6080.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5952.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5824.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-5696.09, -12288.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -3904.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4160.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2624.00, -3584.00, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -3648.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -3776.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4032.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5440.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -6592.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -6464.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -6336.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -6208.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -6080.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5952.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5824.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5696.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5568.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5312.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5184.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -5056.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4928.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4800.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4672.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4544.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4416.14, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2560.00, -4288.04, 60.00)
+Static prop models/props_wasteland/interior_fence003b.mdl outside the map (-2752.00, -3584.00, 60.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 44 texinfos to 27
+Reduced 17 texdatas to 15 (471 bytes to 404)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+8906 faces
+9082210 square feet [1307838208.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1.
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11840.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11840.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11840.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 4104.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 2272.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 2272.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11840.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11840.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1148020 bytes)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11675 faces
+18301042 square feet [2635350016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4579 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1.
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11968.00 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11584.10 12288.00 60.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1148020 bytes)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11675 faces
+18301042 square feet [2635350016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4476 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11744.00 12594.00 304.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1148020 bytes)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11675 faces
+18301042 square feet [2635350016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4459 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-11904.00 12416.00 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15364.0 15360.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15876.0 15360.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 3596.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15364.0 -40.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 15876.0 1764.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 1764.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 746 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1145700 bytes)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11626 faces
+18300850 square feet [2635322368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4437 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1147988 bytes)
+Error! prop_static using model "models/props_rooftop/sign_letter_h001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_h001.mdl"!
+Error! prop_static using model "models/props_rooftop/sign_letter_t001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_rooftop/sign_letter_t001.mdl"!
+Error! To use model "models/props_junk/ravenholmsign.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_junk/ravenholmsign.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11689 faces
+18301194 square feet [2635372032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1147988 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11689 faces
+18301194 square feet [2635372032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4478 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3720/16384       44640/196608   (22.7%) 
+brushsides           23371/163840     186968/1310720  (14.3%) 
+planes                2672/65536       53440/1310720  ( 4.1%) 
+vertexes             16247/65536      194964/786432   (24.8%) 
+nodes                 3714/65536      118848/2097152  ( 5.7%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11689/65536      654584/3670016  (17.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2641/65536      147896/3670016  ( 4.0%) 
+leaves                3716/65536      118912/2097152  ( 5.7%) 
+leaffaces            12408/65536       24816/131072   (18.9%) 
+leafbrushes           5181/65536       10362/131072   ( 7.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            62254/512000     249016/2048000  (12.2%) 
+edges                34056/256000     136224/1024000  (13.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            683/32768        6830/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9840/65536       19680/131072   (15.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    35641804/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3716/65536       14864/262144   ( 5.7%) 
+HDR ambient table     3716/65536       14864/262144   ( 5.7%) 
+LDR leaf ambient     22156/65536      620368/1835008  (33.8%) 
+HDR leaf ambient      3716/65536      104048/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/72358    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1147988/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 27944
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+31 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1149836 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11930 faces
+20753780 square feet [2988544256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3725/16384       44700/196608   (22.7%) 
+brushsides           23405/163840     187240/1310720  (14.3%) 
+planes                2686/65536       53720/1310720  ( 4.1%) 
+vertexes             16574/65536      198888/786432   (25.3%) 
+nodes                 3824/65536      122368/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11930/65536      668080/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2688/65536      150528/3670016  ( 4.1%) 
+leaves                3826/65536      122432/2097152  ( 5.8%) 
+leaffaces            12596/65536       25192/131072   (19.2%) 
+leafbrushes           5227/65536       10454/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            63606/512000     254424/2048000  (12.4%) 
+edges                34742/256000     138968/1024000  (13.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            713/32768        7130/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10212/65536       20424/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36937876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+HDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+LDR leaf ambient     23131/65536      647668/1835008  (35.3%) 
+HDR leaf ambient      3826/65536      107128/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82556    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1149836/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28626
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+36 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1149052 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11917 faces
+20749060 square feet [2987864576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5369 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3723/16384       44676/196608   (22.7%) 
+brushsides           23391/163840     187128/1310720  (14.3%) 
+planes                2678/65536       53560/1310720  ( 4.1%) 
+vertexes             16556/65536      198672/786432   (25.3%) 
+nodes                 3824/65536      122368/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11917/65536      667352/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2679/65536      150024/3670016  ( 4.1%) 
+leaves                3826/65536      122432/2097152  ( 5.8%) 
+leaffaces            12583/65536       25166/131072   (19.2%) 
+leafbrushes           5225/65536       10450/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            63508/512000     254032/2048000  (12.4%) 
+edges                34687/256000     138748/1024000  (13.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            712/32768        7120/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10197/65536       20394/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36925432/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5998/393216   ( 1.5%) 
+LDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+HDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+LDR leaf ambient     23144/65536      648032/1835008  (35.3%) 
+HDR leaf ambient      3826/65536      107128/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82466    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1149052/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28590
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+38 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1149052 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11917 faces
+20749060 square feet [2987864576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5051 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3723/16384       44676/196608   (22.7%) 
+brushsides           23391/163840     187128/1310720  (14.3%) 
+planes                2678/65536       53560/1310720  ( 4.1%) 
+vertexes             16556/65536      198672/786432   (25.3%) 
+nodes                 3824/65536      122368/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11917/65536      667352/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2679/65536      150024/3670016  ( 4.1%) 
+leaves                3826/65536      122432/2097152  ( 5.8%) 
+leaffaces            12583/65536       25166/131072   (19.2%) 
+leafbrushes           5225/65536       10450/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            63508/512000     254032/2048000  (12.4%) 
+edges                34687/256000     138748/1024000  (13.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            712/32768        7120/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10197/65536       20394/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36925432/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+HDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+LDR leaf ambient     23154/65536      648312/1835008  (35.3%) 
+HDR leaf ambient      3826/65536      107128/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82466    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1149052/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28590
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+38 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1149052 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11917 faces
+20749060 square feet [2987864576.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3723/16384       44676/196608   (22.7%) 
+brushsides           23391/163840     187128/1310720  (14.3%) 
+planes                2678/65536       53560/1310720  ( 4.1%) 
+vertexes             16556/65536      198672/786432   (25.3%) 
+nodes                 3824/65536      122368/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11917/65536      667352/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2679/65536      150024/3670016  ( 4.1%) 
+leaves                3826/65536      122432/2097152  ( 5.8%) 
+leaffaces            12583/65536       25166/131072   (19.2%) 
+leafbrushes           5225/65536       10450/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            63508/512000     254032/2048000  (12.4%) 
+edges                34687/256000     138748/1024000  (13.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            712/32768        7120/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10197/65536       20394/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36925432/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+HDR ambient table     3826/65536       15304/262144   ( 5.8%) 
+LDR leaf ambient     23151/65536      648228/1835008  (35.3%) 
+HDR leaf ambient      3826/65536      107128/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82466    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1149052/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28590
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+39 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1148660 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11731 faces
+20510542 square feet [2953518080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4599 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3722/16384       44664/196608   (22.7%) 
+brushsides           23381/163840     187048/1310720  (14.3%) 
+planes                2668/65536       53360/1310720  ( 4.1%) 
+vertexes             16370/65536      196440/786432   (25.0%) 
+nodes                 3814/65536      122048/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11731/65536      656936/3670016  (17.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2685/65536      150360/3670016  ( 4.1%) 
+leaves                3816/65536      122112/2097152  ( 5.8%) 
+leaffaces            12375/65536       24750/131072   (18.9%) 
+leafbrushes           5220/65536       10440/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            62796/512000     251184/2048000  (12.3%) 
+edges                34329/256000     137316/1024000  (13.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            715/32768        7150/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10230/65536       20460/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36806148/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3816/65536       15264/262144   ( 5.8%) 
+HDR ambient table     3816/65536       15264/262144   ( 5.8%) 
+LDR leaf ambient     23050/65536      645400/1835008  (35.2%) 
+HDR leaf ambient      3816/65536      106848/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82466    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1148660/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28226
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+37 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1148660 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 29
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11733 faces
+20510542 square feet [2953518080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3722/16384       44664/196608   (22.7%) 
+brushsides           23381/163840     187048/1310720  (14.3%) 
+planes                2672/65536       53440/1310720  ( 4.1%) 
+vertexes             16367/65536      196404/786432   (25.0%) 
+nodes                 3816/65536      122112/2097152  ( 5.8%) 
+texinfos                29/16384        2088/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11733/65536      657048/3670016  (17.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2686/65536      150416/3670016  ( 4.1%) 
+leaves                3818/65536      122176/2097152  ( 5.8%) 
+leaffaces            12379/65536       24758/131072   (18.9%) 
+leafbrushes           5221/65536       10442/131072   ( 8.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            62800/512000     251200/2048000  (12.3%) 
+edges                34331/256000     137324/1024000  (13.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            712/32768        7120/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10185/65536       20370/131072   (15.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36971060/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        5999/393216   ( 1.5%) 
+LDR ambient table     3818/65536       15272/262144   ( 5.8%) 
+HDR ambient table     3818/65536       15272/262144   ( 5.8%) 
+LDR leaf ambient     23052/65536      645456/1835008  (35.2%) 
+HDR leaf ambient      3818/65536      106904/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82872    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1148660/4194304  (27.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28222
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+36 seconds elapsed
