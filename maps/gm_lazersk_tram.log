@@ -7201,3 +7201,113 @@ Level flags = 0
 Total triangle count: 28302
 Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
 44 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.vmf
+Patching WVT material: maps/gm_lazersk_tram/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 792 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1170252 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 35
+Reduced 18 texdatas to 16 (489 bytes to 422)
+Writing F:\My Project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+PREP OK
+No vis information, direct lighting only.
+11797 faces
+20743494 square feet [2987063040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4462 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes               3785/16384       45420/196608   (23.1%) 
+brushsides           23755/163840     190040/1310720  (14.5%) 
+planes                2870/65536       57400/1310720  ( 4.4%) 
+vertexes             16548/65536      198576/786432   (25.3%) 
+nodes                 3832/65536      122624/2097152  ( 5.8%) 
+texinfos                35/16384        2520/1179648  ( 0.2%) 
+texdata                 16/8192          512/262144   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11797/65536      660632/3670016  (18.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2790/65536      156240/3670016  ( 4.3%) 
+leaves                3834/65536      122688/2097152  ( 5.9%) 
+leaffaces            12596/65536       25192/131072   (19.2%) 
+leafbrushes           5345/65536       10690/131072   ( 8.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            63812/512000     255248/2048000  (12.5%) 
+edges                34924/256000     139696/1024000  (13.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            760/32768        7600/327680   ( 2.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11091/65536       22182/131072   (16.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    36922804/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6764/393216   ( 1.7%) 
+LDR ambient table     3834/65536       15336/262144   ( 5.9%) 
+HDR ambient table     3834/65536       15336/262144   ( 5.9%) 
+LDR leaf ambient     23309/65536      652652/1835008  (35.6%) 
+HDR leaf ambient      3834/65536      107352/1835008  ( 5.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/92148    ( 0.0%) 
+pakfile               [variable]       91117/0        ( 0.0%) 
+physics               [variable]     1170252/4194304  (27.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28690
+Writing f:\my project\gm_lazersk_tram\maps\gm_lazersk_tram.bsp
+41 seconds elapsed
