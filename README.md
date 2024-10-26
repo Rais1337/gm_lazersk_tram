@@ -1,4 +1,4 @@
 Это должен был быть приватный репозиторий, но.. 
 
-## Licence
+## License
 [MIT](LICENSE) - Copyright (c) 2024 Г.О i3
