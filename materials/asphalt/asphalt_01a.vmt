@@ -2,6 +2,6 @@ LightmappedGeneric
 {
 	$basetexture "asphalt/asphalt_01a_color"
 	$bumpmap "asphalt/asphalt_01a_normal"
-	$surfaceprop Concrete
+	$surfaceprop concrete
 	$ssbump 1
 }
