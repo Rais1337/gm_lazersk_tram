@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+    "$surfaceprop" "concrete"
+    "$basetexture" "models/props_urban/concrete_slab_cluster_100_256a_color"
+}
